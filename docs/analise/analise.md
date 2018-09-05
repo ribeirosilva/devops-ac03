@@ -1,0 +1,5 @@
+carlos fernandes araujo RA 1800218
+
+Analise: fiquei encarrecargo de fazer de fazer analise do projeto como os seguintes itens: fazer a visita com o cliente
+fazer os requesitos, fazer a analise do projeto em cima do que o cliente disse da maneira dele e interpretar, colocando
+no papel para que o cliente possa verificar o que ele realmente precisar e se adeque a sua situação de sua necessidade.
