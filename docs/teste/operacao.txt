@@ -1,0 +1,5 @@
+daniel campos 1800255
+operacao
+
+Teste de Operação é a fase de teste em que o teste é conduzido pelos administradores do ambiente final onde o sistema ou software entrará em ambiente produtivo. Vale ressaltar que essa fase é aplicável somente a sistemas de informação próprios de uma organização, cujo acesso pode ser feito interna e/ou externamente a essa organização. Nessa fase de teste devem ser feitas simulações para garantir que a entrada em produção do sistema será bem sucedida. Envolve testes de instalação, simulações com backup e restore das bases de dados, etc. Em alguns casos um sistema entrará em produção para substituir outro e é necessário garantir que o novo sistema continuará garantindo o suporte ao negócio. 
+
